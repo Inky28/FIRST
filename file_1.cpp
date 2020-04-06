@@ -3,3 +3,5 @@ new file
  file 3
   the new code
   cout<<"HELLO GIT"<<endl;
+  Other commit
+  
